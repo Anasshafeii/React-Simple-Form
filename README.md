@@ -2,4 +2,4 @@
 
 A simple form using react and react hooks such as use state and use context 
 
-# LiveDemo: https://react-simple-form-requesting.netlify.app/)https://react-simple-form-requesting.netlify.app/
+# LiveDemo: https://react-simple-form-requesting.netlify.app/
