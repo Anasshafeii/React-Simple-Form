@@ -1,0 +1,9 @@
+{
+  "short_name": "Requesting a Loan project with react",
+  "name": "Requesting a Loan project with react",
+
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
